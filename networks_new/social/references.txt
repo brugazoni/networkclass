@@ -1,0 +1,10 @@
+A small anonymized Facebook ego network, from April 2014. Nodes are Facebook profiles, and an edge exists if the two profiles are "friends" on Facebook. Metadata gives the social context for the relationship between ego and alter.
+https://networks.skewed.de/net/facebook_friends
+
+
+A network of associations among suspects, victims, and/or witnesses involved in crimes in St. Louis in the 1990s. Data are derived from police records, via snowball sampling from five initial homicides. Left nodes are people, right nodes are crime events, and edges connect people to particular crimes events they were associated with. Metadata includes names, genders, and roles (suspects, victims, and/or witnesses).
+https://networks.skewed.de/net/crime
+
+
+A coauthorship network among scientists working on network science, from 2006. This network is a one-mode projection from the bipartite graph of authors and their scientific publications.
+https://networks.skewed.de/net/netscience

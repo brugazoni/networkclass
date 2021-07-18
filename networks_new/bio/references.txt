@@ -1,0 +1,10 @@
+Network of operons and their pairwise interactions, via transcription factor-based regulation, within the yeast Saccharomyces cerevisiae.
+https://networks.skewed.de/net/yeast_transcription
+
+
+Networks of recombinant antigen genes from the human malaria parasite P. falciparum. Each of the 9 networks shares the same set of vertices but has different edges, corresponding to the 9 highly variable regions (HVRs) in the DBLa domain of the var protein. Nodes are var genes, and two genes are connected if they share a substring whose length is statistically significant. Metadata includes two types of node labels, both based on sequence structure around HVR6.
+https://networks.skewed.de/net/malaria_genes
+
+
+Networks of carbon exchanges among species in the cypress wetlands of South Florida. One network covers the wet and the other the dry season. Each node represents a taxon (similar to a species), and a directed edge indicates that one taxon uses another as food.
+https://networks.skewed.de/net/foodweb_baywet

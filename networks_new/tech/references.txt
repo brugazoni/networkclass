@@ -1,0 +1,10 @@
+Dominance interactions (pecking) among a group of White Leghorn hens, observed in 1946. Edge weights represent the frequency of interaction. The two versions below are equivalent.
+https://networks.skewed.de/net/hens
+
+
+Network of cooperation among students in the "Computer and Network Security" course at Ben-Gurion University, in 2012. Nodes are students, and edges denote cooperation between students while doing their homework. The graph contains three types of links: Time, Computer, Partners.
+https://networks.skewed.de/net/student_cooperation
+
+
+Multiplex network of 3 edge types representing relationships (advice, friendship, and “reports to”) between managers of a high-tech company. Data hosted by Manlio De Domenico.
+https://networks.skewed.de/net/high_tech_company
